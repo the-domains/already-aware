@@ -1,7 +1,7 @@
 name: Already Aware
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49693
+layout_spectrum: 0.25153
+typography_spectrum: 0.43558
 title: Already Aware
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#e4e684'
     - '#67819d'
   brandStrength: 0.1875
-  lightness: 0.15863319369964302
-  saturation: 0.6875
+  lightness: 0.75
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
