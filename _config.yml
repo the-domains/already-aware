@@ -1,6 +1,6 @@
 name: Already Aware
 favicon: null
-layout_spectrum: 0.25153
+layout_spectrum: 0
 typography_spectrum: 0.43558
 title: Already Aware
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#242721'
-    - '#006b00'
-    - '#ffa600'
-    - '#e4e684'
-    - '#67819d'
+    - '#d1ae7b'
+    - '#ff9f00'
+    - '#552f00'
+    - '#c58300'
+    - '#c84d00'
   brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
