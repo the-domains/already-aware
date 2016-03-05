@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Already Aware]]></title>
         <description><![CDATA[Already Aware]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/already-aware/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:36:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 01:36:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/already-aware/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/605176da-09f2-494f-955d-9d77902f94f9.jpg">]]></description>
+            <link>https://thegrid.ai/already-aware/4910a81c-af88-45ea-8fba-bf6827a787e4/index.html</link>
+            <guid isPermaLink="false">4910a81c-af88-45ea-8fba-bf6827a787e4</guid>
+            <pubDate>Sat, 05 Mar 2016 01:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54da5d78-f1ad-4576-9713-e79640c5c3b0.jpg">]]></description>
-            <link>undefined02d43b6e-8742-4d58-adc4-21cb25173f5c/index.html</link>
+            <link>https://thegrid.ai/already-aware/02d43b6e-8742-4d58-adc4-21cb25173f5c/index.html</link>
             <guid isPermaLink="false">02d43b6e-8742-4d58-adc4-21cb25173f5c</guid>
             <pubDate>Sat, 05 Mar 2016 01:36:24 GMT</pubDate>
         </item>
